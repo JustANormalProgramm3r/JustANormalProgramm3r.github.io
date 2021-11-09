@@ -1,1 +1,1 @@
-<form></form>
+<input type="text"></input>
