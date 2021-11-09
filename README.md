@@ -1,1 +1,1 @@
-<input type="text"style="height:1000px; width:1000px;>
+<input type="text" style="height:120px; width:200px;">
